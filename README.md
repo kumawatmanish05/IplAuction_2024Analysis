@@ -12,3 +12,4 @@ This project analyzes the IPL auction dataset to explore trends and patterns in 
 
 The main objective of this project is to uncover insights into the IPL auction dynamics and use data-driven methods to better understand the player selection process. Through this analysis, users can learn how to work with real-world sports data, practice data manipulation, and gain skills in data visualization. The project serves as a practical resource for those new to Python in data analysis or sports enthusiasts who want to see how data shapes one of cricket's biggest events.
 
+![Library_project](https://github.com/kumawatmanish05/IplAuction_2024Analysis/blob/main/ipl-2021-auction-1644402416.jpg)
